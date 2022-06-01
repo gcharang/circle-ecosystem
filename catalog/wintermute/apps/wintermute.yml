@@ -1,0 +1,8 @@
+id: "96373952-afe3-4bec-ad72-d9b39d728bd0"
+companyName: "Wintermute"
+appName: "Wintermute"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.wintermute.com/"
+fiatOnRamp: true
+categories:
+  - defi

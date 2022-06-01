@@ -1,0 +1,9 @@
+id: "953410f4-5e8f-4cfb-a503-48f4a0d990a7"
+companyName: "Tombswap"
+appName: "Tombswap"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://swap.tomb.com/#/swap"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges

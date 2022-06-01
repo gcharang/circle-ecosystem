@@ -1,0 +1,10 @@
+id: "dfc707a9-e138-4e83-b159-98135bc962a5"
+companyName: "Raydium"
+appName: "Raydium"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://raydium.io/"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges
+  - investing_yield

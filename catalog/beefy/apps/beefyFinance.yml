@@ -1,0 +1,9 @@
+id: "57da313c-389a-4bbe-b718-c45bc7d4bf60"
+companyName: "Beefy"
+appName: "Beefy Finance"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://beefy.finance/"
+fiatOnRamp: false
+categories:
+  - defi
+  - investing_yield

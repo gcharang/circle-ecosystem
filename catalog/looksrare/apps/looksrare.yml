@@ -1,0 +1,8 @@
+id: "ab19f25f-5b33-4215-ade9-827b50bf3494"
+companyName: "LooksRare"
+appName: "LooksRare"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://looksrare.org/"
+fiatOnRamp: false
+categories:
+  - nft_marketplaces

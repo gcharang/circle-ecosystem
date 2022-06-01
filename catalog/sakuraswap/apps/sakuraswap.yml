@@ -1,0 +1,9 @@
+id: "36791c0f-c43f-4c2e-905f-35265272c0b0"
+companyName: "Sakuraswap"
+appName: "Sakuraswap"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://about.sakuraswap.org/en"
+fiatOnRamp: false
+categories:
+  - defi
+  - gaming

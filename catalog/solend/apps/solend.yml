@@ -1,0 +1,10 @@
+id: "2556a4cb-0817-4e75-9f8e-4fabd0882fb8"
+companyName: "Solend"
+appName: "Solend"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://solend.fi/"
+fiatOnRamp: false
+categories:
+  - borrowing_lending
+  - defi
+  - investing_yield

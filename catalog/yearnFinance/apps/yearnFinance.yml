@@ -1,0 +1,9 @@
+id: "4038f222-e6db-4956-8989-4c9421007709"
+companyName: "Yearn Finance"
+appName: "Yearn Finance"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://yearn.finance/#/portfolio"
+fiatOnRamp: false
+categories:
+  - borrowing_lending
+  - defi

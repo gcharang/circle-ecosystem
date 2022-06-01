@@ -1,0 +1,8 @@
+id: "fc43f596-9764-4036-91e0-aad437086ede"
+companyName: "BtcTurk"
+appName: "BtcTurk"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.btcturk.com/"
+fiatOnRamp: true
+categories:
+  - trading_exchanges

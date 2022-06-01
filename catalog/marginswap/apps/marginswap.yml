@@ -1,0 +1,8 @@
+id: "c8e47330-72e9-4784-9684-64f53c440d05"
+companyName: "Marginswap"
+appName: "Marginswap"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://marginswap.net/"
+fiatOnRamp: false
+categories:
+  - defi

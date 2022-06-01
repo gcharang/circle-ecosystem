@@ -1,0 +1,9 @@
+id: "42dc1939-fd8a-4831-ab1e-3179d8cf20fc"
+companyName: "0x Labs"
+appName: "0x Protocol"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.0x.org/"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges

@@ -1,0 +1,9 @@
+id: "127dce27-719d-4a98-ae92-a838ad6cc699"
+companyName: "SunSwap"
+appName: "SunSwap"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://sunswap.com/#/home"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges

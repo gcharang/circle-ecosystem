@@ -1,0 +1,8 @@
+id: "b12b0352-726b-4de8-b2ef-5a6c950cfb2a"
+companyName: "Fonbnk"
+appName: "Fonbnk"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.fonbnk.com/"
+fiatOnRamp: true
+categories:
+  - cefi

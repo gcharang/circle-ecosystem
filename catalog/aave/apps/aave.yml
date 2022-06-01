@@ -1,0 +1,9 @@
+id: "0c590efc-f8c4-46ab-9532-fbc640aa78e3"
+companyName: "Aave"
+appName: "Aave"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://aave.com/"
+fiatOnRamp: false
+categories:
+  - defi
+  - borrowing_lending

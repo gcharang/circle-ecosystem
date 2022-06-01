@@ -1,0 +1,11 @@
+id: "f769919c-2601-41e8-8462-8f47ed4ad435"
+companyName: "mStable"
+appName: "mStable"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://mstable.org/"
+dao: true
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges
+  - investing_yield

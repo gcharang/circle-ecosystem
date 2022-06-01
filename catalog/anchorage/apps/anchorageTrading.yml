@@ -1,0 +1,8 @@
+id: "3b8c8866-f6f9-4474-af0d-4a2f5a4329b2"
+companyName: "Anchorage"
+appName: "Anchorage Trading"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.anchorage.com/services/trading"
+fiatOnRamp: false
+categories:
+  - trading_exchanges

@@ -1,0 +1,8 @@
+id: "072617ef-0335-4f2c-b567-3f9796b371d4"
+companyName: "Kokoswap"
+appName: "Kokoswap"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://kokoswap.org/"
+fiatOnRamp: true
+categories:
+  - defi

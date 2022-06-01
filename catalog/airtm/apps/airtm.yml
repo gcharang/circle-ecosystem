@@ -1,0 +1,8 @@
+id: "d5bb39fb-44fa-4015-bc54-b8d32dc03e53"
+companyName: "Airtm"
+appName: "Airtm"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.airtm.com/en/"
+fiatOnRamp: true
+categories:
+  - remittances

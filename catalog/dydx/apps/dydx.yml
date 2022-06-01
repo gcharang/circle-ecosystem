@@ -1,0 +1,10 @@
+id: "97618ef1-986a-482d-b878-495668901378"
+companyName: "dYdX"
+appName: "dYdX"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://dydx.exchange/"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges
+  - investing_yield

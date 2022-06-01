@@ -1,0 +1,8 @@
+id: "c3c8b7fa-99c6-42c0-b01b-4669040f29a7"
+companyName: "Stealthswap"
+appName: "Stealthswap"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://stealthswap.org/"
+fiatOnRamp: false
+categories:
+  - defi

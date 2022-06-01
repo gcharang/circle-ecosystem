@@ -1,0 +1,8 @@
+id: "989009bc-0fa7-4f3d-ab9f-fb3b2bcc00ad"
+companyName: "Provenance Technologies"
+appName: "Provenance Technologies"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.provenancetech.io/"
+fiatOnRamp: false
+categories:
+  - cefi

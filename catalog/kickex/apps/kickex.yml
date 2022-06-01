@@ -1,0 +1,9 @@
+id: "75a2dd7b-0897-4fbc-9d0b-0a9d5ec8e378"
+companyName: "KickEX"
+appName: "KickEX"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://kickex.com/en"
+fiatOnRamp: true
+categories:
+  - cefi
+  - trading_exchanges

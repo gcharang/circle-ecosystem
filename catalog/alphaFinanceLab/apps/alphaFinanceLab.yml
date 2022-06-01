@@ -1,0 +1,8 @@
+id: "34d57cac-dc21-4939-b048-a0684c06610e"
+companyName: "Alpha Finance Lab"
+appName: "Alpha Finance Lab"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://alphaventuredao.io/"
+fiatOnRamp: false
+categories:
+  - borrowing_lending

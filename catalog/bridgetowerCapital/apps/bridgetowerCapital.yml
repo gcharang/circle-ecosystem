@@ -1,0 +1,8 @@
+id: "3a156060-7b2e-4d04-be9e-bdcae680bcff"
+companyName: "BridgeTower Capital"
+appName: "BridgeTower Capital"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.bridgetowercapital.com/"
+fiatOnRamp: true
+categories:
+  - investing_yield

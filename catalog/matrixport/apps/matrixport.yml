@@ -1,0 +1,8 @@
+id: "7af44ece-b16e-4a95-bf48-3ea51e05c7e7"
+companyName: "Matrixport"
+appName: "Matrixport"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://invest.matrixport.com/en"
+fiatOnRamp: true
+categories:
+  - trading_exchanges

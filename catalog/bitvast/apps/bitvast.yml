@@ -1,0 +1,8 @@
+id: "bec4f161-e18e-463d-9453-47c70eecc446"
+companyName: "Bitvast"
+appName: "Bitvast"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.bitvast.com/"
+fiatOnRamp: false
+categories:
+  - trading_exchanges

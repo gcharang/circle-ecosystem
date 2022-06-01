@@ -1,0 +1,9 @@
+id: "27b53dba-0c21-4cd7-8831-54e1433d7373"
+companyName: "1inch"
+appName: "1inch Exchange"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://app.1inch.io/"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges

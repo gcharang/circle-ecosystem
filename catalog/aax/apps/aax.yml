@@ -1,0 +1,9 @@
+id: "a44c371f-84a0-4a74-8435-e0141631305f"
+companyName: "AAX"
+appName: "AAX"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.aax.com/"
+fiatOnRamp: false
+categories:
+  - cefi
+  - trading_exchanges

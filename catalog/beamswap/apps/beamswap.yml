@@ -1,0 +1,10 @@
+id: "0a41ddfc-8662-4332-a243-4bcfc15d268b"
+companyName: "BeamSwap"
+appName: "BeamSwap"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://app.beamswap.io/exchange/swap"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges
+  - investing_yield

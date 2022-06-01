@@ -1,0 +1,8 @@
+id: "32dd5849-f751-4e54-ab40-7d25d3d6747e"
+companyName: "B2BX"
+appName: "B2BX"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.b2bx.exchange/"
+fiatOnRamp: true
+categories:
+  - trading_exchanges

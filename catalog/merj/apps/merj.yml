@@ -1,0 +1,8 @@
+id: "272e1479-8d23-4316-a0d6-54fd286424d5"
+companyName: "MERJ"
+appName: "MERJ"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://merj.exchange/"
+fiatOnRamp: true
+categories:
+  - trading_exchanges

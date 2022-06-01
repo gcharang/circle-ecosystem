@@ -1,0 +1,8 @@
+id: "eb0d1ed8-3004-4518-acf8-a121337d319d"
+companyName: "Ribbon"
+appName: "Ribbon Finance"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.ribbon.finance/"
+fiatOnRamp: false
+categories:
+  - defi

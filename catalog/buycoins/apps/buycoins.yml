@@ -1,0 +1,9 @@
+id: "7add5e90-1978-4340-a9f3-f9498dbe0fc5"
+companyName: "Buycoins"
+appName: "Buycoins"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://buycoins.africa/"
+fiatOnRamp: true
+categories:
+  - cefi
+  - trading_exchanges

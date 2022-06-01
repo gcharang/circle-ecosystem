@@ -1,0 +1,8 @@
+id: "408c433b-c10c-4575-86f1-95e8f9c77374"
+companyName: "BCB Group"
+appName: "BCB Group"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.bcbgroup.com/"
+fiatOnRamp: false
+categories:
+  - banking

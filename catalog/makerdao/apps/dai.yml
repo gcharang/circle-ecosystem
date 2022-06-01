@@ -1,0 +1,8 @@
+id: "fb801bb8-9503-415d-b6e5-10345e2393e7"
+companyName: "MakerDAO"
+appName: "DAI"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://makerdao.com/en/"
+fiatOnRamp: false
+categories:
+  - defi

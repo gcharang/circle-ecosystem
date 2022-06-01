@@ -1,0 +1,9 @@
+id: "c359775c-3177-4951-ad8f-fc9622138aaf"
+companyName: "Curve"
+appName: "Curve Finance"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://curve.fi/"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges

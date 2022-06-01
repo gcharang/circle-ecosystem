@@ -1,0 +1,10 @@
+id: "4c8fc4d6-a8b0-4eae-b4db-de467e725a57"
+companyName: "Sifchain Finance"
+appName: "Sifchain"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.sifchain.finance/"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges
+  - investing_yield

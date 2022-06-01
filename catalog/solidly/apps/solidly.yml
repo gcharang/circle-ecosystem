@@ -1,0 +1,9 @@
+id: "90ccf6fd-9b3c-4f86-8cfa-b0de9696f5e7"
+companyName: "Solidly"
+appName: "Solidly"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://solidly.exchange/"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges

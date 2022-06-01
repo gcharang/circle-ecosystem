@@ -1,0 +1,9 @@
+id: "633e82fa-4d7c-476a-a411-5923abbeff38"
+companyName: "DeFi Kingdoms"
+appName: "DeFi Kingdoms"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://defikingdoms.com/"
+fiatOnRamp: false
+categories:
+  - gaming
+  - defi

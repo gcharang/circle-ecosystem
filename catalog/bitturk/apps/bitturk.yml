@@ -1,0 +1,8 @@
+id: "a0c9e181-59c8-49b4-a50c-0f1abe56f69d"
+companyName: "BitTurk"
+appName: "BitTurk"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://bitturk.com/"
+fiatOnRamp: true
+categories:
+  - trading_exchanges

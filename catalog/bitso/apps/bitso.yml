@@ -1,0 +1,11 @@
+id: "328be518-c416-4542-b37a-01bd07821939"
+companyName: "Bitso"
+appName: "Bitso"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://bitso.com/"
+fiatOnRamp: true
+categories:
+  - cefi
+  - trading_exchanges
+  - investing_yield
+  - remittances
