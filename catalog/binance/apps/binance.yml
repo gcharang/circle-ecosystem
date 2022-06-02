@@ -1,0 +1,10 @@
+id: "2c904673-0532-4f44-a7ed-9dceb85b9bae"
+companyName: "Binance"
+appName: "Binance"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.binance.com/en"
+fiatOnRamp: true
+categories:
+  - cefi
+  - trading_exchanges
+  - investing_yield

@@ -1,0 +1,9 @@
+id: "3b76b8f4-2fa2-4f5c-8240-63837a26d767"
+companyName: "Bitpanda"
+appName: "Bitpanda"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.bitpanda.com/en"
+fiatOnRamp: true
+categories:
+  - trading_exchanges
+  - investing_yield

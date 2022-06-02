@@ -1,0 +1,9 @@
+id: "59df530d-7b0b-402b-b959-1c0ca14e7804"
+companyName: "Symmetric.finance"
+appName: "Symmetric.finance"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://symmetric.finance/"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges

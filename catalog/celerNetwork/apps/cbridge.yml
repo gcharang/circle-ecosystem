@@ -1,0 +1,8 @@
+id: "53d4c7e6-303d-4f4a-a0ba-ad1b063770c2"
+companyName: "Celer Network"
+appName: "CBridge"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://cbridge.celer.network/"
+fiatOnRamp: false
+categories:
+  - defi

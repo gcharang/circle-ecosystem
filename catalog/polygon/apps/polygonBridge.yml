@@ -1,0 +1,8 @@
+id: "af1ee9c0-c724-4174-ad19-60d112ab1af9"
+companyName: "Polygon"
+appName: "Polygon Bridge"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://polygon.technology/"
+fiatOnRamp: false
+categories:
+  - defi

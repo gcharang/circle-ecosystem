@@ -1,0 +1,11 @@
+id: "4771bdaa-40af-44c3-90fd-2e5149a4fa26"
+companyName: "BlockFi"
+appName: "BlockFi"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://blockfi.com/"
+fiatOnRamp: true
+categories:
+  - borrowing_lending
+  - cefi
+  - trading_exchanges
+  - investing_yield

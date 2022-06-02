@@ -1,0 +1,8 @@
+id: "75a5a3dc-b4c6-4bfc-bd7b-1082413e1371"
+companyName: "Sakeswap"
+appName: "Sakeswap"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://app.sakeswap.finance/"
+fiatOnRamp: false
+categories:
+  - defi

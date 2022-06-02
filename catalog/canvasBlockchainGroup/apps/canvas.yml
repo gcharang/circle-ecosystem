@@ -1,0 +1,10 @@
+id: "e6c855e6-4670-415d-a67b-7bc631fc8149"
+companyName: "Canvas Blockchain Group"
+appName: "Canvas"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://canvas.co/"
+fiatOnRamp: true
+categories:
+  - defi
+  - trading_exchanges
+  - investing_yield

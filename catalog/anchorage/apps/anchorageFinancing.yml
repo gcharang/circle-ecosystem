@@ -1,0 +1,8 @@
+id: "919844df-19e6-4e33-b1a9-8c5cfbd196ab"
+companyName: "Anchorage"
+appName: "Anchorage Financing"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.anchorage.com/services/financing"
+fiatOnRamp: false
+categories:
+  - borrowing_lending

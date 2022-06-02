@@ -1,0 +1,8 @@
+id: "dd4a9766-fa90-4f27-8c02-87006b0a7f6b"
+companyName: "Kuna"
+appName: "Kuna"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://kuna.io/en"
+fiatOnRamp: true
+categories:
+  - trading_exchanges

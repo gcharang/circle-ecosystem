@@ -1,0 +1,12 @@
+id: "eb942a64-f1fd-468c-98bd-bf26a2b94ac1"
+companyName: "BabySwap"
+appName: "BabySwap"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://home.babyswap.finance/"
+fiatOnRamp: false
+categories:
+  - defi
+  - borrowing_lending
+  - trading_exchanges
+  - investing_yield
+  - nft_marketplaces

@@ -1,0 +1,8 @@
+id: "fefcfaab-d6ec-4eb9-bc31-30fb577757fa"
+companyName: "Solflare"
+appName: "Solflare"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://solflare.com/"
+fiatOnRamp: false
+categories:
+  - wallets

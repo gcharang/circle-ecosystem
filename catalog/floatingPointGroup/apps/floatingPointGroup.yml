@@ -1,0 +1,8 @@
+id: "b6e959be-15af-49b1-9d22-5cf0aa439b0d"
+companyName: "Floating Point Group"
+appName: "Floating Point Group"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.floating.group/"
+fiatOnRamp: true
+categories:
+  - cefi

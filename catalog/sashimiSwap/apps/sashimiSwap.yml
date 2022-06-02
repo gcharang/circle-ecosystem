@@ -1,0 +1,9 @@
+id: "7eea1c13-ceb0-43bb-9c91-15459e866353"
+companyName: "Sashimi Swap"
+appName: "Sashimi Swap"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://bsc.sashimi.cool/"
+fiatOnRamp: false
+categories:
+  - defi
+  - investing_yield

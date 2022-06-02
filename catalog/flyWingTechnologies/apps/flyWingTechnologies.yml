@@ -1,0 +1,8 @@
+id: "5c0f3db3-e316-45fd-b235-0c704bcb9d33"
+companyName: "Fly Wing Technologies"
+appName: "Fly Wing Technologies"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.flywing.com/"
+fiatOnRamp: true
+categories:
+  - trading_exchanges

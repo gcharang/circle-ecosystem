@@ -1,0 +1,8 @@
+id: "f4d27740-c46b-4802-acdb-0b0dfd4771bd"
+companyName: "Luaswap"
+appName: "Luaswap"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://luaswap.org/#/"
+fiatOnRamp: false
+categories:
+  - defi

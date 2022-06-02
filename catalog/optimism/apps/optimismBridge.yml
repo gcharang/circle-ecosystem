@@ -1,0 +1,8 @@
+id: "7dd01252-3266-4a2f-9c92-6e0f2dd66c92"
+companyName: "Optimism"
+appName: "Optimism Bridge"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://gateway.optimism.io/"
+fiatOnRamp: false
+categories:
+  - defi

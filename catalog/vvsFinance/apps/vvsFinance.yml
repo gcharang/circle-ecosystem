@@ -1,0 +1,9 @@
+id: "5843d38b-9221-4b95-b8ca-41e0473089b9"
+companyName: "VVS Finance"
+appName: "VVS Finance"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://vvs.finance/"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges

@@ -1,0 +1,10 @@
+id: "23004163-db1d-4736-81f1-046ac0f2175b"
+companyName: "Serum"
+appName: "Serum"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.projectserum.com/"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges
+  - investing_yield

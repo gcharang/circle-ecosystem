@@ -1,0 +1,9 @@
+id: "a198aba7-53c8-4704-8602-35a555413967"
+companyName: "Bittrex"
+appName: "Bittrex"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://bittrex.com/"
+fiatOnRamp: true
+categories:
+  - cefi
+  - trading_exchanges

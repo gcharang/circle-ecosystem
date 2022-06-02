@@ -1,0 +1,8 @@
+id: "f8031657-2999-4e3f-8794-1e85822975fd"
+companyName: "Arca"
+appName: "Arca"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.ar.ca/"
+fiatOnRamp: false
+categories:
+  - trading_exchanges

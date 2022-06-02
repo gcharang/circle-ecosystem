@@ -1,0 +1,8 @@
+id: "168fba72-54c0-4781-bea1-542d3b24e384"
+companyName: "Blockade Games"
+appName: "Blockade Games"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://blockade.games/"
+fiatOnRamp: false
+categories:
+  - gaming

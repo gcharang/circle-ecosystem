@@ -1,0 +1,9 @@
+id: "2936bc6d-b36b-4be8-8b6a-36d034669803"
+companyName: "Arrakis"
+appName: "Arrakis Finance"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.arrakis.finance/"
+fiatOnRamp: false
+categories:
+  - defi
+  - investing_yield

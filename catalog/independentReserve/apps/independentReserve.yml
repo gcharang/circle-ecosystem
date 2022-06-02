@@ -1,0 +1,8 @@
+id: "58b15503-5eca-4330-adf8-60345ebe1486"
+companyName: "Independent Reserve"
+appName: "Independent Reserve"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.independentreserve.com/"
+fiatOnRamp: false
+categories:
+  - trading_exchanges

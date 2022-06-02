@@ -1,0 +1,8 @@
+id: "0c0aea6a-d598-4224-8316-5f0ea7764563"
+companyName: "Cadana"
+appName: "Cadana"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.cadanapay.com/"
+fiatOnRamp: true
+categories:
+  - payroll

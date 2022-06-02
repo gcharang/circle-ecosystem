@@ -1,0 +1,8 @@
+id: "4fdd6489-7a82-4f01-a72e-b842dde27151"
+companyName: "MAX Exchange"
+appName: "MAX Exchange"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://max.maicoin.com/"
+fiatOnRamp: true
+categories:
+  - trading_exchanges

@@ -1,0 +1,10 @@
+id: "d3294746-9ca7-4e7a-b91b-c376b153a56e"
+companyName: "Impermax"
+appName: "Impermax"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.impermax.finance/"
+fiatOnRamp: false
+categories:
+  - defi
+  - investing_yield
+  - borrowing_lending

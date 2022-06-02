@@ -1,0 +1,8 @@
+id: "f17b38d9-5da7-4450-a50e-c04c25a72f94"
+companyName: "Smilecoin"
+appName: "Smilecoin"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://smilecoin.us/"
+fiatOnRamp: false
+categories:
+  - defi

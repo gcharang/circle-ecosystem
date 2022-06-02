@@ -1,0 +1,9 @@
+id: "5afe59cc-3557-4641-829b-0a04a528ea54"
+companyName: "Voltage Finance"
+appName: "Voltage Finance"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://voltage.finance/"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges

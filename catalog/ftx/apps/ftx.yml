@@ -1,0 +1,8 @@
+id: "5a4d680a-eba4-4ea4-be35-f115023e2cf4"
+companyName: "FTX"
+appName: "FTX"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://ftx.com"
+fiatOnRamp: true
+categories:
+  - trading_exchanges

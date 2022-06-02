@@ -1,0 +1,8 @@
+id: "e48fb219-cf9c-485b-acce-0080e384f61c"
+companyName: "Allbridge"
+appName: "Allbridge"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://allbridge.io/"
+fiatOnRamp: false
+categories:
+  - defi

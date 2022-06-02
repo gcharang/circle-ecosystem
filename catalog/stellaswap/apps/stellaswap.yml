@@ -1,0 +1,9 @@
+id: "3c5ae100-db18-4304-9bb2-fefe2324b6c4"
+companyName: "StellaSwap"
+appName: "StellaSwap"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://stellaswap.com/"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges

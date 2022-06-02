@@ -1,0 +1,9 @@
+id: "c9bf65cd-039a-47f9-a1b7-7a7d0f4cc1b6"
+companyName: "ZKSpace"
+appName: "ZKSpace"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://zks.org/"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges

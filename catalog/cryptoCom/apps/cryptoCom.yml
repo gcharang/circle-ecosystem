@@ -1,0 +1,8 @@
+id: "f052aa0f-65cf-4496-b2d8-226572250a3a"
+companyName: "Crypto.com"
+appName: "Crypto.com"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://crypto.com/"
+fiatOnRamp: true
+categories:
+  - trading_exchanges

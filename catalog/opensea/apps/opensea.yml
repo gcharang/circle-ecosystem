@@ -1,0 +1,8 @@
+id: "76647ceb-01fe-4ef2-abc3-cf5cc8d6ed9d"
+companyName: "OpenSea"
+appName: "OpenSea"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://opensea.io/"
+fiatOnRamp: false
+categories:
+  - nft_marketplaces

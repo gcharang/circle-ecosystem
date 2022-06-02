@@ -1,0 +1,8 @@
+id: "eb711393-bcab-40c4-8847-977da6e651ab"
+companyName: "Synapse"
+appName: "Synapse Bridge"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://synapseprotocol.com/"
+fiatOnRamp: false
+categories:
+  - defi

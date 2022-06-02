@@ -1,0 +1,8 @@
+id: "24d15d27-3719-4b99-b397-f03a70cc1ddb"
+companyName: "Blockchain.com"
+appName: "Blockchain.com Exchange"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://exchange.blockchain.com/"
+fiatOnRamp: true
+categories:
+  - trading_exchanges

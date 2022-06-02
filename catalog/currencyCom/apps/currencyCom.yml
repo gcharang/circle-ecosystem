@@ -1,0 +1,8 @@
+id: "aabc6815-03b0-4567-919b-12c8dd7e6d49"
+companyName: "Currency.com"
+appName: "currency.com"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://currency.com"
+fiatOnRamp: false
+categories:
+  - trading_exchanges

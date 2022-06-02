@@ -1,0 +1,8 @@
+id: "64095d38-6c14-4977-9abf-bf46ad3df120"
+companyName: "Strike Protocols"
+appName: "Strike Protocols"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://strikeprotocols.com/"
+fiatOnRamp: true
+categories:
+  - defi

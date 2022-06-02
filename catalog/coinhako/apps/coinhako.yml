@@ -1,0 +1,9 @@
+id: "90e24e61-238e-44dc-929e-ce6c016cc744"
+companyName: "Coinhako"
+appName: "Coinhako"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.coinhako.com/"
+fiatOnRamp: true
+categories:
+  - cefi
+  - trading_exchanges

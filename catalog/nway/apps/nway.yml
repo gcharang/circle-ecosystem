@@ -1,0 +1,8 @@
+id: "6e502ca0-3b77-43d6-8061-071259cd937a"
+companyName: "nWay"
+appName: "nWay"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://nway.com/"
+fiatOnRamp: false
+categories:
+  - gaming

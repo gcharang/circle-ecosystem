@@ -1,0 +1,8 @@
+id: "27493067-7071-45fb-8d84-093713893233"
+companyName: "Arival"
+appName: "Arival"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://arival.com/"
+fiatOnRamp: true
+categories:
+  - banking

@@ -1,0 +1,11 @@
+id: "e95dbc09-138a-4932-a483-e500df2410b5"
+companyName: "Solfarm"
+appName: "Tulip Garden"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://tulip.garden/"
+dao: true
+fiatOnRamp: false
+categories:
+  - borrowing_lending
+  - defi
+  - investing_yield

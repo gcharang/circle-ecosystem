@@ -1,0 +1,8 @@
+id: "ac7bdf1e-6922-4217-a063-2e45c2c49143"
+companyName: "NFTX"
+appName: "NFTX"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://nftx.io/"
+fiatOnRamp: false
+categories:
+  - trading_exchanges

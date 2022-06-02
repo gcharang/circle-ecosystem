@@ -1,0 +1,8 @@
+id: "e9933289-a030-40bc-b242-1657c877eafa"
+companyName: "Pangolin"
+appName: "Pangolin"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://pangolin.exchange/"
+fiatOnRamp: false
+categories:
+  - defi

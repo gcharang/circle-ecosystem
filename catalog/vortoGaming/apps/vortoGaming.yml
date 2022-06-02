@@ -1,0 +1,8 @@
+id: "5b574933-3577-4549-a855-ba58b201be47"
+companyName: "Vorto Gaming"
+appName: "Vorto Gaming"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://vortogaming.com/"
+fiatOnRamp: false
+categories:
+  - gaming

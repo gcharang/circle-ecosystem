@@ -1,0 +1,8 @@
+id: "55633058-3178-482e-b0e7-4e93c9c002b0"
+companyName: "Phantom"
+appName: "Phantom"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://phantom.app/"
+fiatOnRamp: true
+categories:
+  - wallets

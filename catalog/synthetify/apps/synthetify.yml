@@ -1,0 +1,10 @@
+id: "f22e8885-ab00-4fac-bbd1-6888d4f31700"
+companyName: "Synthetify"
+appName: "Synthetify"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://app.synthetify.io/staking"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges
+  - investing_yield

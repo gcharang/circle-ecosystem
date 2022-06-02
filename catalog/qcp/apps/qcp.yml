@@ -1,0 +1,8 @@
+id: "0f6ab4a3-ea78-4b71-ad0a-e6683ec5978f"
+companyName: "QCP"
+appName: "QCP"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://qcp.capital/"
+fiatOnRamp: true
+categories:
+  - trading_exchanges

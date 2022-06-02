@@ -1,0 +1,8 @@
+id: "8cc8b7bb-1d77-4885-abc3-5e2fc63696bc"
+companyName: "Numerium3"
+appName: "Numerium3"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.numerium3.com"
+fiatOnRamp: false
+categories:
+  - trading_exchanges

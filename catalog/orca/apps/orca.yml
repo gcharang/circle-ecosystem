@@ -1,0 +1,10 @@
+id: "1b4a429a-c509-4e28-bbf9-180feab9d482"
+companyName: "Orca"
+appName: "Orca"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.orca.so/"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges
+  - investing_yield

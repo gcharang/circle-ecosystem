@@ -1,0 +1,8 @@
+id: "65b3f3bd-a02a-4d2a-b45d-ca5b3c049c9b"
+companyName: "Cumberland"
+appName: "Cumberland"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.cumberland.io/"
+fiatOnRamp: true
+categories:
+  - trading_exchanges

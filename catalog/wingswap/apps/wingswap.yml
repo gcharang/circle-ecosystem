@@ -1,0 +1,9 @@
+id: "9a8c3377-9837-4a68-a3fe-0971f0e9dee1"
+companyName: "Wingswap"
+appName: "Wingswap"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://app.wingswap.io/"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges

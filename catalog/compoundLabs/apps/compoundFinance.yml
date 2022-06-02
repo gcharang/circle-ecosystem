@@ -1,0 +1,10 @@
+id: "b5573d57-488b-40f0-8c83-44b756db1002"
+companyName: "Compound Labs"
+appName: "Compound Finance"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://compound.finance/"
+fiatOnRamp: false
+categories:
+  - borrowing_lending
+  - defi
+  - investing_yield

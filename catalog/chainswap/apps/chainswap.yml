@@ -1,0 +1,8 @@
+id: "0a5a1cf6-ae9c-4866-b496-8746095e28ad"
+companyName: "Chainswap"
+appName: "Chainswap"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://chainswap.com/"
+fiatOnRamp: false
+categories:
+  - defi
