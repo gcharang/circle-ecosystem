@@ -8,6 +8,11 @@ To contribute to this catalog, please propose a PR with the following files by f
 1. An image of your app / company logo
 2. A yaml file with the requested information about your app (one app per yaml file)
 
+### Legal Disclaimer
+By submitting your name and logo, you (i) represent and warrant that you are authorized to bind
+your company or protocol; and (ii) hereby grant Circle permission to use your name and logo on its
+website and in its marketing materials.
+
 ## Logo Constraints
 Logos should conform to the following parameters:
 
