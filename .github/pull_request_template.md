@@ -6,8 +6,6 @@ Add the following application(s) to the Circle Ecosystem Catalog:
 - Apps
   - \< Name of app \>
 
-**Legal Disclaimer**
-
-By submitting your name and logo, you (i) represent and warrant that you are authorized to bind
+_By submitting your name and logo, you (i) represent and warrant that you are authorized to bind
 your company or protocol; and (ii) hereby grant Circle permission to use your name and logo on its
-website and in its marketing materials.
+website and in its marketing materials._
