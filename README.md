@@ -1,4 +1,4 @@
-# Circle Ecosystem Catalog
+# USDC Ecosystem Catalog
 
 The goal of this repository is to track the ecosystem of applications and businesses that support or
 build on top of USDC.
