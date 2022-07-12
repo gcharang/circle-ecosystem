@@ -10,10 +10,7 @@ audiences:
   - consumers
   - businesses
 blockchains:
-  - avalanche
   - ethereum
-  - polygon
-  - tron
 categories:
   - defi
   - trading_exchanges
